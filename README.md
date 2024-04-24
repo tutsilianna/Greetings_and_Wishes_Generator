@@ -8,10 +8,10 @@ Greetings & Wishes Generator - educational group project as part of the course o
 │   │   └───greetings.csv                  # csv file with all greetings & wishes
 │   ├───processed
 │   │   ├───train.txt                      # dataset for training
-│   │   └───valid.txt                        # dataset for validation
+│   │   └───valid.txt                      # dataset for validation
 │   └───model                              # weights and parameters for the GPT model
 ├───src                         
-│   └───scrape.py                          # scrapes greetings & wishes from the website
+│   └───parse.py                           # scrapes greetings & wishes from the website
 ├───.gitignore
 ├───requirements.txt                       # all required dependencies
 ├───greetings_text.txt                     # output text
