@@ -3,6 +3,7 @@ Greetings & Wishes Generator - educational group project as part of the course o
 
 # Project structure 
 ```
+.
 ├───data
 │   ├───raw                     
 │   │   └───greetings.csv                  # csv file with all greetings & wishes
