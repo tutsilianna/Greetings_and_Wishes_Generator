@@ -17,7 +17,6 @@ The result we got:
 ```
 ***** eval metrics *****
   epoch                   =        3.0
-  eval_accuracy           =     0.6166
   eval_loss               =      1.971
   eval_runtime            = 0:00:23.57
   eval_samples            =        913
